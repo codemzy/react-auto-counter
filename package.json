@@ -1,0 +1,25 @@
+{
+  "name": "react-auto-counter",
+  "version": "1.0.0",
+  "description": "Simple React auto counter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//codemzy/react-auto-counter.git"
+  },
+  "keywords": [
+    "counter",
+    "incremental",
+    "animation",
+    "react-component"
+  ],
+  "author": "codemzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemzy/react-auto-counter/issues"
+  },
+  "homepage": "https://github.com/codemzy/react-auto-counter",
+  "peerDependencies": {
+    "react": ">=0.12.0 <0.15.0"
+  }
+}
