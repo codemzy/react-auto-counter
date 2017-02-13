@@ -1,7 +1,7 @@
 {
   "name": "react-auto-counter",
   "version": "1.0.0",
-  "description": "Simple React auto counter",
+  "description": "Simple React auto counter with no other dependencies",
   "main": "index.js",
   "repository": {
     "type": "git",
